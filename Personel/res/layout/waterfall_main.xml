@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<personel.personolphoto.LazyScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/waterfall_scroll"
+    android:background="@android:color/black">
+
+    <LinearLayout
+        android:id="@+id/waterfall_container"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@android:color/black"
+        android:orientation="vertical"
+         >
+    </LinearLayout>
+
+</personel.personolphoto.LazyScrollView>
